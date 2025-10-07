@@ -37,6 +37,7 @@ HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
 These embeddings are stored in a FAISS vector database for fast semantic retrieval.
 
+
 ### **4. Query-Time Retrieval**
 When the user asks a question:
 - Relevant chunks are retrieved from FAISS (RAG context)
