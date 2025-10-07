@@ -35,7 +35,7 @@ The chunks are converted into **vector embeddings** using:
 ```python
 HuggingFaceEmbeddings(model_name="sentence-transformers/all-MiniLM-L6-v2")
 
-These embeddings are stored in a FAISS vector database for fast semantic retrieval.
+These embeddings are stored in a FAISS vector database for fast semantic retrieval.```
 
 
 ### **4. Query-Time Retrieval**
