@@ -40,5 +40,5 @@ These embeddings are stored in a FAISS vector database for fast semantic retriev
 4. Query-Time Retrieval
 
 When the user asks a question:
-* Relevant chunks are retrieved from FAISS (RAG context)
-* Simultaneously, a live web search is performed using the ddgs (DuckDuckGo Search) API to fetch up-to-date results.
+- Relevant chunks are retrieved from FAISS (RAG context)
+- Simultaneously, a live web search is performed using the ddgs (DuckDuckGo Search) API to fetch up-to-date results.
