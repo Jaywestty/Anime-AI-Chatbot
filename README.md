@@ -141,5 +141,5 @@ python-dotenv
 *Data Scientist & Machine Learning Engineer*
 
 * 📧 **Email:** `juwonfadairo13@gmail.com`
-* 🔗 **GitHub Profile:** [Your GitHub Link Here]
+* 🔗 **GitHub Profile:** [https://github.com/Jaywestty]
 
