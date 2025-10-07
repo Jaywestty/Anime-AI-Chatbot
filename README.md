@@ -68,7 +68,7 @@ The primary goal of this project was to **learn the fundamentals of RAG pipeline
 
 The app is fully deployed on Streamlit Cloud, making it accessible for interactive use.
 
-👉 **Try it out here:** [Live App Link](YOUR_STREAMLIT_DEPLOYMENT_URL_HERE)
+👉 **Try it out here:** [Live App Link](https://animekiqchatbot.streamlit.app/)
 
 ---
 
@@ -102,7 +102,7 @@ python-dotenv
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/animekiq.git](https://github.com/your-username/animekiq.git)
+    git clone [https://github.com/Jaywestty/Anime-AI-Chatbot.git](https://github.com/Jaywestty/Anime-AI-Chatbot.git)
     cd animekiq
     ```
 
